@@ -23,14 +23,15 @@ This is a clone of the popular **Plants vs Zombies** game, developed using **C++
    - **Description**: A zombie that flies above the ground.
 
 ## Start screen
-<img width="945" alt="Start" src="https://github.com/user-attachments/assets/ca205fd3-b442-4588-8a72-75cd152aac38" />
+![Start](Screenshots/PVZ.PNG)
 
 ## Instructions
-<img width="929" alt="InstructionScr" src="https://github.com/user-attachments/assets/c6960ce3-1f2a-4f80-9007-6c9de07d242f" />
+![Instructions](Screenshots/instructions.PNG)
 
 ## Gameplay and Levels
 
 The game consists of **four levels**, each introducing new challenges, plant types, and zombies. The objective is to defend your garden from approaching zombies by planting different types of plants that have unique abilities.
+![Levels](Screenshots/levels.PNG)
 
 ### Level 1: Beginner's Garden
 
@@ -38,7 +39,7 @@ The game consists of **four levels**, each introducing new challenges, plant typ
 - **Available Plants:**
   - **Sunflower:** Generates sun points to plant other plants.
   - **Peashooter:** Shoots peas to damage zombies.
-<img width="936" alt="level1" src="https://github.com/user-attachments/assets/a21e239a-feb2-46f2-8902-a5ca94f01ee7" />
+![Level 1](Screenshots/l1.PNG)
 
 ### Level 2: Zombie Outskirts
 
@@ -48,7 +49,7 @@ The game consists of **four levels**, each introducing new challenges, plant typ
   - **Peashooter**
   - **Wall-nut**
   - **Cherry Bomb:** Deals area damage to multiple zombies.
-  <img width="942" alt="level2" src="https://github.com/user-attachments/assets/fa12f5ac-351f-4c51-a39e-92ac8827ea9e" />
+  ![Level 2](Screenshots/l2.PNG)
 
 ### Level 3: Sunflower field
 
@@ -61,7 +62,7 @@ The game consists of **four levels**, each introducing new challenges, plant typ
   - **Cherry Bomb**
   - **Repeater:** Shoots two peas at once.
   - **Snow Pea:** Shoots ice peas.
-<img width="945" alt="level3" src="https://github.com/user-attachments/assets/b23b5ab5-d0be-4f52-818b-527bb8f71052" />
+![Level 3](Screenshots/l3.PNG)
 
 ### Level 4: Foggy Forest
 (This level isn't fully functional)
@@ -76,7 +77,8 @@ The game consists of **four levels**, each introducing new challenges, plant typ
   - **Repeater**
   - **Snow Pea:**
   - **Torch Wood:**
-<img width="937" alt="level4" src="https://github.com/user-attachments/assets/e7b2030d-b832-42e4-a271-8fde7c87ce8f" />
+
+![Level 4](Screenshots/l4.PNG)
 
 ## Controls
 
