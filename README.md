@@ -35,7 +35,6 @@ The game consists of **four levels**, each introducing new challenges, plant typ
 
 ### Level 1: Beginner's Garden
 
-- **Objective:** Defend against the initial waves of zombies using basic plants.
 - **Available Plants:**
   - **Sunflower:** Generates sun points to plant other plants.
   - **Peashooter:** Shoots peas to damage zombies.
@@ -43,7 +42,6 @@ The game consists of **four levels**, each introducing new challenges, plant typ
 
 ### Level 2: Zombie Outskirts
 
-- **Objective:** Face faster and more varied zombies, requiring strategic plant placement.
 - **Available Plants:**
   - **Sunflower**
   - **Peashooter**
@@ -53,7 +51,6 @@ The game consists of **four levels**, each introducing new challenges, plant typ
 
 ### Level 3: Sunflower field
 
-- **Objective:** Defend your garden during the night and in the pool area, introducing new plant types.
 - **Available Plants:**
   - **Sunflower**
   - **Peashooter**
@@ -67,7 +64,6 @@ The game consists of **four levels**, each introducing new challenges, plant typ
 ### Level 4: Foggy Forest
 (This level isn't fully functional)
 
-- **Objective:** Confront the most challenging zombies, requiring advanced strategies and plant combinations.
 - **Available Plants:**
  - **Sunflower**
   - **Peashooter**
